@@ -1,5 +1,6 @@
 # Bottleneck wineshop sales analysis
 
+![alt text](https://github.com/Armeldt/Python-WineShop-Sales-Analysis/blob/main/Ressources/logo.png?raw=true)
 
 ## Detailed Project Description:
 In this project, as part of my data analyst training, I was tasked with supporting BottleNeck, a prestigious wine retailer, by analyzing their sales data. The goal was to reconcile two datasets—one from the ERP and another from the online store CMS—and provide insights into sales performance and pricing inconsistencies.
